@@ -1,5 +1,5 @@
 .head-text
-{color: black;background: #0079bc;padding: 10px;border-radius: 10px;box-shadow: 1px 0px 7px 2px #296192;text-align: center;}
+{color: black;background: #0079bc;padding: 10px;border-radius: 10px;box-shadow: 1px 0px 7px 2px #FFFFFF;text-align: center;}
 .right-part
 {
 margin-top: 10px;
@@ -21,7 +21,7 @@ margin-top : 20px;
     background: #0079bc;
 }
 .p-part {
-    color: #296192;
+    color: #FFFFFF;
     text-align: center;
     font-size: 18px;
     margin: 5px 5px 0px 5px;
